@@ -12,17 +12,17 @@
     },
     {
       "id": 3,
-      "checked": true,
+      "checked": false,
       "item": "Bread"
     },
     {
       "id": 4,
-      "checked": true,
+      "checked": false,
       "item": "Waguy"
     },
     {
       "id": 5,
-      "checked": true,
+      "checked": false,
       "item": "Sushi"
     }
   ]
